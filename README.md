@@ -18,9 +18,9 @@ Due to privacy, security, and healthcare data protection requirements, the compl
 
 This repository focuses only on:
 
-✔ Claude AI integration
-✔ Core telemedicine concept demonstration
-✔ Simplified architecture for judging and review
+ Claude AI integration
+ Core telemedicine concept demonstration
+ Simplified architecture for judging and review
 
  Project Overview
 
@@ -100,7 +100,7 @@ Audit logging & session security
 
 These components are intentionally excluded from this repository for security and privacy reasons.
 
-📦 Tech Stack (Demo Version)
+ Tech Stack (Demo Version)
 Python (Flask)
 Claude AI API (Anthropic)
 REST API architecture
